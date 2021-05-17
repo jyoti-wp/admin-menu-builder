@@ -22,5 +22,9 @@
  * Text Domain:       menu-builder
  * Domain Path:       /languages
  */
-require_once 'patterns/register-patterns.php';
+
+
+ // Include custom files
+
+ require_once 'custom-functions.php';
 
