@@ -1,10 +1,10 @@
 <?php
 
 /** 
-* Menu Builder main file
-* 
-* @package.Menu.Builder
-*/
+ * Menu Builder main file
+ * 
+ * @package.Menu.Builder
+ */
 
 
 
@@ -24,7 +24,6 @@
  */
 
 
- // Include custom files
+// Include custom files
 
- require_once 'custom-functions.php';
-
+require_once 'custom-functions.php';
